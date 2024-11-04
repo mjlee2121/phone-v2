@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/phone-v2/static/css/main.5a7e7ba8.css",
-    "main.js": "/phone-v2/static/js/main.6731a83d.js",
+    "main.js": "/phone-v2/static/js/main.39c3c8a7.js",
     "static/js/453.3e901a72.chunk.js": "/phone-v2/static/js/453.3e901a72.chunk.js",
     "index.html": "/phone-v2/index.html",
     "static/media/favicon.svg": "/phone-v2/static/media/favicon.8f21ea829b72c61473b1e92ab44a7297.svg",
     "main.5a7e7ba8.css.map": "/phone-v2/static/css/main.5a7e7ba8.css.map",
-    "main.6731a83d.js.map": "/phone-v2/static/js/main.6731a83d.js.map",
+    "main.39c3c8a7.js.map": "/phone-v2/static/js/main.39c3c8a7.js.map",
     "453.3e901a72.chunk.js.map": "/phone-v2/static/js/453.3e901a72.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5a7e7ba8.css",
-    "static/js/main.6731a83d.js"
+    "static/js/main.39c3c8a7.js"
   ]
 }
